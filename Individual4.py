@@ -4,6 +4,7 @@
 
 import math
 import sys
+
 EPS = 1e-10
 if __name__ == '__main__':
     x = float(input("Введите x "))
